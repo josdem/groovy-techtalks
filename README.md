@@ -8,6 +8,7 @@ Evaluate an expression and everything in Groovy is an object
 
 * http://josdem.io/techtalk/groovy/groovy_essential_concepts/
 
+
 From Java to Groovy
 -----------------------------------
 
@@ -19,7 +20,6 @@ You can convert a Java class to Groovy class in seven steps
 
 
 Groovy Bash
-
 -----------------------------------
 
 Groovy is also a scripting language, you can do things such as create a directory or monitoring a service.
