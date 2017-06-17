@@ -27,3 +27,17 @@ Groovy is also a scripting language, you can do things such as create a director
 #### Know more about Groovy Here
 
 * http://josdem.io/techtalk/groovy/
+
+Groovy Metaprogramming
+------------------------------------
+
+Behavior changes at runtime, capabilities are introduced at runtime
+
+#### Content
+
+* Expando
+  * Dynamically expanding an object
+
+#### Read this as reference
+
+* http://josdem.io/techtalk/groovy/metaprogramming/
