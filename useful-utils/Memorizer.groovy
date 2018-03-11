@@ -1,3 +1,6 @@
+import groovy.transform.Memoized
+
+@Memoized
 Integer fibonacci(Integer number){
   if(number < 2){
     return 1
